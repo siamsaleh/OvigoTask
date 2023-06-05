@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <item android:id="@+id/nav_favorite" android:title="Favourite" android:icon="@drawable/ic_baseline_favorite_24"/>-->
+    <item android:id="@+id/nav_tour" android:title="Tour" android:icon="@drawable/outline_tour_24"/>
+    <item android:id="@+id/nav_hotel" android:title="Hotel" android:icon="@drawable/outline_hotel_24"/>
+    <item android:id="@+id/nav_ticket" android:title="Ticket" android:icon="@drawable/outline_airplane_ticket_24"/>
+    <item android:id="@+id/nav_fav" android:title="Favourite" android:icon="@drawable/outline_favorite_border_24"/>
+</menu>
